@@ -7,3 +7,5 @@ Hi there
 #Methods
 
 I did this
+
+and I did this!
