@@ -13,4 +13,6 @@ This is the repo for DIB git training intro
 2. item 3
 
 
-'''python
+```python
+
+print "Read me"
