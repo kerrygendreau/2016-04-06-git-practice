@@ -12,6 +12,8 @@ This is the repo for DIB git training intro
 1. item 1
 2. item 3
 
+I'm editing this on Github but not on my local computer
+
 
 ```python
 
